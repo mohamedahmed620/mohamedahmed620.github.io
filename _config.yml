@@ -1,11 +1,11 @@
 # Site settings
 author: MOHAMED AHMED
-title: 
+title: My Passion for Data Scince 
 header-img: img/home-bg.png
 email: mohamed_sayed_2@hotmail.com
 copyright_name: MOHAMED AHMED
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My start in Flatiron school
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mohamedahmed620
