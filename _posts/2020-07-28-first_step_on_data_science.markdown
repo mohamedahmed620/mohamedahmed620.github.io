@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First step on Data science"
-date:       2020-07-29 03:04:30 +0000
+date:       2020-07-28 23:04:30 -0400
 permalink:  first_step_on_data_science
 ---
 
@@ -9,7 +9,7 @@ permalink:  first_step_on_data_science
 
      I earned my bachelor’s degree in biomedical engineering so I can pursue my dream of developing software programs for medical devices. I had the opportunity to move to the US. I changed my career path as I got more interested in owning a private business and enjoying taking the risk and gaining the profits. I always used my programming skills on creating a fully developed program using VBA and Excel platforms to calculate my business finances and predict how to improve future sales.
 
-     Everything in my life was going great until the coronavirus hit the USA. I had to close my business in SF. It was a good chance for me to rethink again about my passion for studying and programming. I started a Bootcamp to become a web developer. I found myself drifting away from building a program and focusing more on designing a user interface mostly with CSS language and how to design a UI and some coloring skills needed which I felt that’s not the career I want to pursue. The conclusion from my first Bootcamp experience, I found myself enjoying Java scripting but not a big fan of UI design. 
+     Everything in my life was going great until the coronavirus hit the USA. I had to close my business in SF. It was a good chance for me to rethink again about my passion for studying and programming. I started a Bootcamp to become a web developer. I found myself drifting away from building a program and focusing more on designing a user interface mostly with CSS language and how to design a UI and some coloring skills needed which I felt its fun, but that’s not the career I want to pursue. The conclusion from my first Bootcamp experience, I found myself enjoying Java scripting but not a big fan of UI design. 
 
      I searched to learn more about data science. I felt that’s the discipline I am looking for and that’s the career I want to pursue. Data science can be used as a way to refine random data to illustrate conclusions and results. It also can be useful in building algorithm and machine learning techniques to help predict an incident or occurrence of a biomarker for a particular disease indication. It’s a sufficient tool that refines data from the past and the present and offers solutions for our problems and unknown.
 
